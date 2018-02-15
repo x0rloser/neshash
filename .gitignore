@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!makefile
+!neshash.c
+!README.md
+!LICENSE
